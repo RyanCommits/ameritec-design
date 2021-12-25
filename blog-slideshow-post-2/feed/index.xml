@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blog Slideshow Post	</title>
+	<atom:link href="http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/</link>
+	<description>Kitchen &#38; Bath Design</description>
+	<lastBuildDate>Tue, 03 Jun 2014 22:49:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		By: rockystef		</title>
+		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-4</link>
+
+		<dc:creator><![CDATA[rockystef]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2014 22:49:59 +0000</pubDate>
+		<guid isPermaLink="false">http://rockythemes.com/nimva/?p=3309#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3&quot;&gt;rockystef&lt;/a&gt;.
+
+oh you mean like this?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3">rockystef</a>.</p>
+<p>oh you mean like this?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rockystef		</title>
+		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3</link>
+
+		<dc:creator><![CDATA[rockystef]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2014 22:49:38 +0000</pubDate>
+		<guid isPermaLink="false">http://rockythemes.com/nimva/?p=3309#comment-3</guid>
+
+					<description><![CDATA[Yep it works very nice. how about adding a reply?]]></description>
+			<content:encoded><![CDATA[<p>Yep it works very nice. how about adding a reply?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rockystef		</title>
+		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-2</link>
+
+		<dc:creator><![CDATA[rockystef]]></dc:creator>
+		<pubDate>Tue, 03 Jun 2014 22:49:12 +0000</pubDate>
+		<guid isPermaLink="false">http://rockythemes.com/nimva/?p=3309#comment-2</guid>
+
+					<description><![CDATA[Testing comments: phasellus venenatis fringilla faucibus. Sed urna tortor, ornare eget scelerisque non, hendrerit ut turpis. In porta aliquam nunc in sagittis.]]></description>
+			<content:encoded><![CDATA[<p>Testing comments: phasellus venenatis fringilla faucibus. Sed urna tortor, ornare eget scelerisque non, hendrerit ut turpis. In porta aliquam nunc in sagittis.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

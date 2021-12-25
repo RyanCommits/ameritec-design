@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>{{slider-title}}</title>
+
+	<!-- LayerSlider CSS -->
+	<link rel="stylesheet" href="http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/layerslider/css/layerslider.css">
+</head>
+<body>
+
+	{{google-fonts}}
+	{{icon-fonts}}
+	<!-- External libraries: jQuery & GreenSock -->
+	<script src="http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/layerslider/js/jquery.js"></script>
+	<script src="http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/layerslider/js/greensock.js"></script>
+
+	<!-- LayerSlider script files -->
+	<script src="http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/layerslider/js/layerslider.transitions.js"></script>
+	<script src="http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/layerslider/js/layerslider.kreaturamedia.jquery.js"></script>
+	{{layerslider-plugins}}
+
+
+
+	<!-- Slider HTML markup -->
+	{{slider-markup}}
+
+
+	<!-- Initializing the slider -->
+	<script type="text/javascript">
+
+		$(document).ready(function() {
+
+			{{slider-api}}
+			$('#slider').layerSlider({
+				{{slider-props}}
+			});
+		});
+
+	</script>
+
+</body>
+</html>
