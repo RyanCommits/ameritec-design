@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Ameritec Design</title>
-	<atom:link href="http://ryancommits.github.io/ameritec-design/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="https://ameritecdesign.com/ameritec-design/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ameritecdesign.com/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Sun, 03 Feb 2019 01:50:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://ryancommits.github.io/ameritec-design/hello-world/</link>
-					<comments>http://ryancommits.github.io/ameritec-design/hello-world/#comments</comments>
+		<link>https://ameritecdesign.com/ameritec-design/hello-world/</link>
+					<comments>https://ameritecdesign.com/ameritec-design/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 03 Feb 2019 01:50:18 +0000</pubDate>
@@ -37,7 +37,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ameritecdesign.com/ameritec-design/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

@@ -86,7 +86,7 @@ html {
 }
 
 hr.shadow_line {
-	background: transparent url(http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/divider-bar.png) no-repeat center 0;
+	background: transparent url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/divider-bar.png) no-repeat center 0;
 	background-size: 100% 100%;
 	border: 0;
 	height: 6px;	
@@ -586,7 +586,7 @@ span.page-divider span {
 	display: block;
 	width: 100%;
 	height: 100%;
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/preloader.gif") center center no-repeat #FFF;
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/preloader.gif") center center no-repeat #FFF;
 }
 
 .preloader2 { background-color: transparent; }
@@ -1544,9 +1544,9 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 	color:#fff;
 }
 /*
-#top-social li .ts-icon { background: #f7f7f7 url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png"); float: left; }
+#top-social li .ts-icon { background: #f7f7f7 url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png"); float: left; }
 
-#top-social li a:hover .ts-icon { background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller-light.png"); }
+#top-social li a:hover .ts-icon { background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller-light.png"); }
 
 #top-social li.ts-facebook .ts-icon, #top-social li.ts-facebook a:hover .ts-icon { background-position: -28px center; }
 
@@ -1801,18 +1801,18 @@ body #header.sticky-header.sticky{display:block;}
 #primary-menu ul ul ul li:first-child a { border-top: none; }
 
 #primary-menu ul > li.sub-menu > a > div {
-    background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/mainsubmenu.png");
+    background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/mainsubmenu.png");
     background-position: right top;
     background-repeat: no-repeat;
     padding-right: 16px;
 }
 
 #primary-menu ul > li.sub-menu:hover > a > div,
-#primary-menu ul li.current.sub-menu > a > div { background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/mainsubmenu.png"); }
+#primary-menu ul li.current.sub-menu > a > div { background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/mainsubmenu.png"); }
 
 #primary-menu ul ul > li.sub-menu > a,
 #primary-menu ul ul > li.sub-menu:hover > a {
-    background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/submenu.png");
+    background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/submenu.png");
     background-position: right center;
     background-repeat: no-repeat;
 	color:#fff;
@@ -2054,7 +2054,7 @@ html[xmlns] .slider-wrap {display: block;}
     width: 36px !important;
     height: 36px !important;
     /*text-indent: -9999px;*/
-    background: rgba(11,11,11,0.8) /* url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/slider-nav.png") no-repeat 0 0 */;
+    background: rgba(11,11,11,0.8) /* url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/slider-nav.png") no-repeat 0 0 */;
     transition: background-color .2s linear;
     -moz-transition: background-color .2s linear;
     -webkit-transition: background-color .2s linear;
@@ -2073,7 +2073,7 @@ html[xmlns] .slider-wrap {display: block;}
 }
 
 .tp-leftarrow.large,
-.tp-rightarrow.large { background: rgba(11,11,11,0.8) url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/slider-nav.png") no-repeat 0 0 !important; }
+.tp-rightarrow.large { background: rgba(11,11,11,0.8) url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/slider-nav.png") no-repeat 0 0 !important; }
 
 .ls-noskin .ls-nav-prev,
 .ls-noskin .ls-nav-next {
@@ -2110,7 +2110,7 @@ html[xmlns] .slider-wrap {display: block;}
     bottom: 0;
     width: 28px !important;
     height: 28px !important;
-    background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-slider-nav.png");
+    background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-slider-nav.png");
     transition: background-color .2s linear;
     -moz-transition: background-color .2s linear;
     -webkit-transition: background-color .2s linear;
@@ -2280,7 +2280,7 @@ html[xmlns] .slider-wrap {display: block;}
 
 #top-search input {
     width: 131px;
-    background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/search.png");
+    background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/search.png");
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 38px;
@@ -2451,7 +2451,7 @@ ul.landing-features li:hover { font-weight: bold; }
     padding: 13px 12px 11px 46px;
     font-size: 16px;
     color: #999;
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/subscribe.png") left no-repeat;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/subscribe.png") left no-repeat;
     margin: 0 !important;
 }
 
@@ -2587,7 +2587,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
 
 
 .portfolio-image-round .item-mask{
-	background: url(http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/image-mask.png) no-repeat 0 0 transparent;
+	background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/image-mask.png) no-repeat 0 0 transparent;
 	background-size:100%;
 	width: 100%;
 	height: 100%;
@@ -2596,7 +2596,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
 	top: 0;
 }
 .portfolio-image-round .item-mask-hexa{
-	background: url(http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/image-mask-hex.png) no-repeat 0 0 transparent;
+	background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/image-mask-hex.png) no-repeat 0 0 transparent;
 	background-size:100%;
 	width: 100%;
 	height: 100%;
@@ -2952,7 +2952,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
 .portfolio-overlay-round {
     display: none;
     position: absolute;
-	/*background:url(http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/image-mask.png) no-repeat 0 0 #f96e5b;*/
+	/*background:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/image-mask.png) no-repeat 0 0 #f96e5b;*/
 	background-size:100%;
     top: 0;
     left: 0;
@@ -2974,7 +2974,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
 	-o-border-radius: 0;
 }
 .change-hexa{
-	background:url(http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/image-mask-hex.png) no-repeat 0 0 #f96e5b;
+	background:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/image-mask-hex.png) no-repeat 0 0 #f96e5b;
 	border-radius: 0;
 	-moz-border-radius: 0;
 	-ms-border-radius: 0;
@@ -3091,7 +3091,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
     text-indent: -9999px;
     background-color: #222;
     background-repeat: no-repeat;
-    background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-overlay.png");
+    background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-overlay.png");
 }
 
 .p-overlay-icons a:first-child { margin-left: 0; }
@@ -3344,7 +3344,7 @@ ul[id*="faq-filter"] li.activeFilter a { color: #f96e5b; }
     width: 32px;
     height: 32px;
 	/*
-    background: #f9f9f9 url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-nav.png") no-repeat 0 0;
+    background: #f9f9f9 url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/portfolio-nav.png") no-repeat 0 0;
 	*/
 	
     transition: all .3s ease;
@@ -4440,7 +4440,7 @@ p.wp-caption-text {
     border: none;
     width: 36px;
     height: 36px;
-    background: #444 url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/search-404.png") no-repeat center center;
+    background: #444 url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/search-404.png") no-repeat center center;
     text-indent: -9999px;
     border-radius: 24px;
     -moz-border-radius: 24px;
@@ -4690,11 +4690,11 @@ p.wp-caption-text {
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 	color: #333;
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/toggle-plus2.png") no-repeat left;
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/toggle-plus2.png") no-repeat left;
 }
 
 .toggle .toggleta, .toggle .toggleta.open{
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/toggle-minus2.png") no-repeat left;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/toggle-minus2.png") no-repeat left;
 }
 
 .toggle .togglec, .toggle .togglec.open {
@@ -4787,7 +4787,7 @@ p.wp-caption-text {
 
 
 .quote {
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/quote.png") left top no-repeat;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/quote.png") left top no-repeat;
     margin: 10px 0;
     padding: 0 0 0 15px;
 	font-size: 15px;
@@ -5299,10 +5299,10 @@ blockquote.quote-right {
 
 
 .team-skills li .social-icons a{
-	background: transparent url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png");
+	background: transparent url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png");
 }
 .team-skills.changed li .social-icons a{
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png");
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/social/social-icons-mono-smaller.png");
 }
 
 .social_links .team-skills li span a {
@@ -5955,7 +5955,7 @@ button.button span {
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 	color: #333;
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/toggle-plus2.png") no-repeat left;
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/toggle-plus2.png") no-repeat left;
 }
 
 .wpb_accordion_section {
@@ -5966,7 +5966,7 @@ button.button span {
 }
 
 .acctitlec, .ui-state-active  {
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/toggle-minus2.png") no-repeat left;
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/toggle-minus2.png") no-repeat left;
 	cursor: auto;
 }
 
@@ -6360,7 +6360,7 @@ body > iframe { display: none; }
 }
 #twitter_bar ul li{
 	/*padding-left:25px;
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/twitter-bird.png") no-repeat;*/
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/twitter-bird.png") no-repeat;*/
 }
 #twitter_bar ul li:before{
 	font-family: "fontawesome";
@@ -6389,7 +6389,7 @@ body > iframe { display: none; }
 }
 
 #footer .contact_info {
-	background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/world_map.png") no-repeat center 65%;
+	background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/world_map.png") no-repeat center 65%;
 }
 
 #footer.footer-dark {
@@ -6538,7 +6538,7 @@ ul.footer-menu li:first-child:before{
 
 .widget_search input[type="text"] {
     margin: 0 !important;
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/search.png") no-repeat left center;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/search.png") no-repeat left center;
     padding-left: 39px;
     width: 162px;
 }
@@ -6562,10 +6562,10 @@ ul.footer-menu li:first-child:before{
 .twitter-widget ul li {
     padding: 0 0 0 21px;
     margin-top: 15px;
-    /*background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/twitter.png") 0 2px no-repeat;*/
+    /*background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/twitter.png") 0 2px no-repeat;*/
 }
 
-#footer.footer-dark .twitter-widget ul li { /* background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/twitter.png") top left no-repeat; */ }
+#footer.footer-dark .twitter-widget ul li { /* background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/twitter.png") top left no-repeat; */ }
 
 .twitter-widget ul li:first-child { margin-top: 0; }
 
@@ -6772,11 +6772,11 @@ a.twitter-follow-me:hover,
 
 .widget_recent_comments li {
     display: block;
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/sidebar-comment.png") left top no-repeat;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/sidebar-comment.png") left top no-repeat;
     padding: 4px 0 4px 20px;
 }
 
-#footer.footer-dark .widget_recent_comments li { background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/footer-comment.png") left top no-repeat; }
+#footer.footer-dark .widget_recent_comments li { background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/footer-comment.png") left top no-repeat; }
 
 .widget_nav_menu li a,
 .widget_links li a,
@@ -6787,7 +6787,7 @@ a.twitter-follow-me:hover,
 .widget_product_categories li a,
 .widget_pages li a,
 .widget_recent_comments li a {
-    background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/arrow.png") 0 11px no-repeat;
+    background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/arrow.png") 0 11px no-repeat;
     border: none !important;
 
     font-size: 13px;
@@ -6801,7 +6801,7 @@ a.twitter-follow-me:hover,
 #footer.footer-dark .widget_recent_comments li a,
 #footer.footer-dark .widget_recent_entries li a,
 #footer.footer-dark .widget_categories li a,
-#footer.footer-dark .widget_pages li a {  background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/farrow.png") 0 11px no-repeat; }
+#footer.footer-dark .widget_pages li a {  background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/farrow.png") 0 11px no-repeat; }
 
 
 .widget_recent_comments li a {
@@ -6941,7 +6941,7 @@ a.twitter-follow-me:hover,
     /*
 	width: 20px;
 	right: 22px;
-    background: #ccc url('http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/icons/widget-scroll2.png') no-repeat -2px -2px;
+    background: #ccc url('https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/icons/widget-scroll2.png') no-repeat -2px -2px;
 	*/
 	right:14px;
 	/*

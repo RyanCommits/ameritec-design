@@ -62,7 +62,7 @@
 
     div.responsive-menu, 
     div.responsive-menu span {
-        background: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/responsive-menu.png");
+        background: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/responsive-menu.png");
         -webkit-font-smoothing: antialiased;
     }
     .f-nav, .f-nav2{ z-index: auto !important; position: relative !important; width: auto !important; top:auto !important;} 
@@ -121,7 +121,7 @@
         position: relative;
         background-position: left;
         background-color: #EEE;
-        background-image: url("http://ryancommits.github.io/ameritec-design/wp-content/themes/nimva/images/mobilemenu.png");
+        background-image: url("https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/images/mobilemenu.png");
         background-repeat: no-repeat;
         border: 1px solid #E5E5E5;
         height: 40px;

@@ -137,7 +137,7 @@ View-port and gutter both get little noise background to give it a real feel.
 */
 .cm-s-solarized.CodeMirror,
 .cm-s-solarized .CodeMirror-gutters {
-  /*background-image: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/img/cm-noise.png);*/
+  /*background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/LayerSlider/static/img/cm-noise.png);*/
 }
 
 
@@ -199,5 +199,5 @@ View-port and gutter both get little noise background to give it a real feel.
 }
 
 .CodeMirror .cm-tab {
-  background: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/codemirror/theme/cm-tab.png) center right no-repeat;
+  background: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/LayerSlider/static/codemirror/theme/cm-tab.png) center right no-repeat;
 }

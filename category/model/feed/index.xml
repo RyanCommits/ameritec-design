@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Model &#8211; Ameritec Design</title>
-	<atom:link href="http://ryancommits.github.io/ameritec-design/category/model/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="https://ameritecdesign.com/ameritec-design/category/model/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ameritecdesign.com/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Tue, 03 Jun 2014 20:55:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Nunc Tincidunt Elit Ipsum</title>
-		<link>http://ryancommits.github.io/ameritec-design/nunc-tincidunt-elit-ipsum/</link>
+		<link>https://ameritecdesign.com/ameritec-design/nunc-tincidunt-elit-ipsum/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:55:35 +0000</pubDate>
@@ -66,7 +66,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Maecenas Euis Vehicula</title>
-		<link>http://ryancommits.github.io/ameritec-design/maecenas-euis-vehicula-2/</link>
+		<link>https://ameritecdesign.com/ameritec-design/maecenas-euis-vehicula-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:07:15 +0000</pubDate>
@@ -109,8 +109,8 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Blog Full Width Post</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/</link>
-					<comments>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comments</comments>
+		<link>https://ameritecdesign.com/ameritec-design/blog-full-width-post-2/</link>
+					<comments>https://ameritecdesign.com/ameritec-design/blog-full-width-post-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 14:50:44 +0000</pubDate>
@@ -149,14 +149,14 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ameritecdesign.com/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Voluptas Sadips Ipsums Sits</title>
-		<link>http://ryancommits.github.io/ameritec-design/voluptas-sadips-ipsums-sits/</link>
+		<link>https://ameritecdesign.com/ameritec-design/voluptas-sadips-ipsums-sits/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 29 May 2014 13:52:58 +0000</pubDate>
