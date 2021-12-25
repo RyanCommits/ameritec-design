@@ -12,8 +12,8 @@
 
 <channel>
 	<title>admin &#8211; Ameritec Design</title>
-	<atom:link href="http://ryancommits.github.io/ameritec-design/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="https://ryancommits.github.io/ameritec-design/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ryancommits.github.io/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Sun, 03 Feb 2019 01:50:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://ryancommits.github.io/ameritec-design/hello-world/</link>
-					<comments>http://ryancommits.github.io/ameritec-design/hello-world/#comments</comments>
+		<link>https://ryancommits.github.io/ameritec-design/hello-world/</link>
+					<comments>https://ryancommits.github.io/ameritec-design/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 03 Feb 2019 01:50:18 +0000</pubDate>
@@ -37,15 +37,15 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ryancommits.github.io/ameritec-design/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blog Slideshow Post</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/</link>
-					<comments>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comments</comments>
+		<link>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/</link>
+					<comments>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:58:08 +0000</pubDate>
@@ -82,14 +82,14 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Nunc Tincidunt Elit Ipsum</title>
-		<link>http://ryancommits.github.io/ameritec-design/nunc-tincidunt-elit-ipsum/</link>
+		<link>https://ryancommits.github.io/ameritec-design/nunc-tincidunt-elit-ipsum/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:55:35 +0000</pubDate>
@@ -131,7 +131,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Blog Image Post</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-image-post-2/</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-image-post-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:39:48 +0000</pubDate>
@@ -173,7 +173,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Maecenas Euis Vehicula</title>
-		<link>http://ryancommits.github.io/ameritec-design/maecenas-euis-vehicula-2/</link>
+		<link>https://ryancommits.github.io/ameritec-design/maecenas-euis-vehicula-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:07:15 +0000</pubDate>
@@ -216,7 +216,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Nam Viverra Euismod Odio Gravida</title>
-		<link>http://ryancommits.github.io/ameritec-design/nam-viverra-euismod-odio-gravida-2/</link>
+		<link>https://ryancommits.github.io/ameritec-design/nam-viverra-euismod-odio-gravida-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 19:59:07 +0000</pubDate>
@@ -257,7 +257,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Vitae Oulputate Augue Lacinia</title>
-		<link>http://ryancommits.github.io/ameritec-design/vitae-oulputate-augue-lacinia-2/</link>
+		<link>https://ryancommits.github.io/ameritec-design/vitae-oulputate-augue-lacinia-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 19:56:23 +0000</pubDate>
@@ -300,7 +300,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Blog Video Post</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-video-post/</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-video-post/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 02 Jun 2014 07:56:52 +0000</pubDate>
@@ -339,7 +339,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Aenean Odio Mauris</title>
-		<link>http://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
+		<link>https://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 15:18:43 +0000</pubDate>
@@ -379,8 +379,8 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Blog Full Width Post</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/</link>
-					<comments>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comments</comments>
+		<link>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/</link>
+					<comments>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 14:50:44 +0000</pubDate>
@@ -419,7 +419,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

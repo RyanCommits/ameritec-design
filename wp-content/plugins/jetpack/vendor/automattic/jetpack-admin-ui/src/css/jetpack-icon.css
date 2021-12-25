@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'jetpack';
-	src: url( 'http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot' );
-	src: url( 'http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot#iefix' ) format( 'embedded-opentype' ),
-		url( 'http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.woff' ) format( 'woff' ),
-		url( 'http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.ttf' ) format( 'truetype' );
+	src: url( 'https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot' );
+	src: url( 'https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.eot#iefix' ) format( 'embedded-opentype' ),
+		url( 'https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.woff' ) format( 'woff' ),
+		url( 'https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/vendor/automattic/jetpack-admin-ui/src/fonts/jetpack/jetpack.ttf' ) format( 'truetype' );
 	font-weight: normal;
 	font-style: normal;
 }

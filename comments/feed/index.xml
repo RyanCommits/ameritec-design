@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments for Ameritec Design	</title>
-	<atom:link href="http://ryancommits.github.io/ameritec-design/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="https://ryancommits.github.io/ameritec-design/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ryancommits.github.io/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Sun, 03 Feb 2019 01:50:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://ryancommits.github.io/ameritec-design/hello-world/#comment-1</link>
+		<link>https://ryancommits.github.io/ameritec-design/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 03 Feb 2019 01:50:18 +0000</pubDate>
@@ -41,16 +41,16 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
 		<item>
 		<title>
 		Comment on Blog Slideshow Post by rockystef		</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-4</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-4</link>
 
 		<dc:creator><![CDATA[rockystef]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 22:49:59 +0000</pubDate>
 		<guid isPermaLink="false">http://rockythemes.com/nimva/?p=3309#comment-4</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3&quot;&gt;rockystef&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3&quot;&gt;rockystef&lt;/a&gt;.
 
 oh you mean like this?]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3">rockystef</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3">rockystef</a>.</p>
 <p>oh you mean like this?</p>
 ]]></content:encoded>
 		
@@ -58,7 +58,7 @@ oh you mean like this?]]></description>
 		<item>
 		<title>
 		Comment on Blog Slideshow Post by rockystef		</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-3</link>
 
 		<dc:creator><![CDATA[rockystef]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 22:49:38 +0000</pubDate>
@@ -72,7 +72,7 @@ oh you mean like this?]]></description>
 		<item>
 		<title>
 		Comment on Blog Slideshow Post by rockystef		</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-2</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comment-2</link>
 
 		<dc:creator><![CDATA[rockystef]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 22:49:12 +0000</pubDate>
@@ -86,7 +86,7 @@ oh you mean like this?]]></description>
 		<item>
 		<title>
 		Comment on Blog Full Width Post by rockystef		</title>
-		<link>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comment-5</link>
+		<link>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comment-5</link>
 
 		<dc:creator><![CDATA[rockystef]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 22:47:41 +0000</pubDate>
