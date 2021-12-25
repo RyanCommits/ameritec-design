@@ -5,14 +5,14 @@
 */
 @font-face {
   font-family: "wp-svg-plugin-icon-set1";
-  src: url("https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot");
-  src: url("https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot#iefix")
+  src: url("https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot");
+  src: url("https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot#iefix")
       format("embedded-opentype"),
-    url("https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.woff")
+    url("https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.woff")
       format("woff"),
-    url("https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.ttf")
+    url("https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.ttf")
       format("truetype"),
-    url("https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.svg#wp-svg-plugin-icon-set1")
+    url("https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.svg#wp-svg-plugin-icon-set1")
       format("svg");
   font-weight: normal;
   font-style: normal;
@@ -33,7 +33,7 @@
 .dropDownButton {
   background: transparent !important;
   padding-left: 24px !important;
-  background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/svg-vector-icon-plugin/admin/images/download-icon-small.png) !important;
+  background-image: url(https://ameritecdesign.com/wp-content/plugins/svg-vector-icon-plugin/admin/images/download-icon-small.png) !important;
   background-repeat: no-repeat !important;
   background-size: 13px 14px !important;
   background-position: 6px 6px !important;

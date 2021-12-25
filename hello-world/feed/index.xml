@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://ameritecdesign.com/ameritec-design/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ameritecdesign.com/ameritec-design/hello-world/</link>
+	<atom:link href="https://ameritecdesign.com/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ameritecdesign.com/hello-world/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Sun, 03 Feb 2019 01:50:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://ameritecdesign.com/ameritec-design/hello-world/#comment-1</link>
+		<link>https://ameritecdesign.com/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 03 Feb 2019 01:50:18 +0000</pubDate>

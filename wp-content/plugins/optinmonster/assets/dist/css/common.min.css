@@ -227,13 +227,13 @@ Item-Specific
             transform: rotate(1080deg); } }
 
 .om-circle-loading {
-  background: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/optinmonster/assets/css/images/icons/loading-circle.svg) no-repeat center;
+  background: url(https://ameritecdesign.com/wp-content/plugins/optinmonster/assets/css/images/icons/loading-circle.svg) no-repeat center;
   background-size: 60px;
   height: 60px;
   margin: 20px; }
 
 .transitioning {
-  background: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/optinmonster/assets/css/images/icons/loading-circle.svg) no-repeat center 100px;
+  background: url(https://ameritecdesign.com/wp-content/plugins/optinmonster/assets/css/images/icons/loading-circle.svg) no-repeat center 100px;
   background-size: 60px; }
 
 .transitioning > * {

@@ -16,7 +16,7 @@
 .ls-v5 .ls-nav-stop,
 .ls-v5 .ls-fullscreen,
 .ls-v5 .ls-loading-container {
-	background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/skin.png);
+	background-image: url(https://ameritecdesign.com/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/skin.png);
 }
 
 .ls-v5 .ls-playvideo {
@@ -185,7 +185,7 @@
 	width: 22px;
 	height: 22px;
 	margin-top: 9px;
-	background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/loading.gif);
+	background-image: url(https://ameritecdesign.com/wp-content/plugins/LayerSlider/static/layerslider/skins/v5/loading.gif);
 }
 
 

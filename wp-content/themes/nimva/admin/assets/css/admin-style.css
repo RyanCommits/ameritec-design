@@ -87,7 +87,7 @@ body.appearance_page_optionsframework {
 }
 #of_container #header .icon-option {
 	float: right;	
-	/*background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon_option.png) no-repeat;*/
+	/*background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon_option.png) no-repeat;*/
 	margin:0;
 }
 
@@ -115,8 +115,8 @@ body.appearance_page_optionsframework {
 	margin: 0 0 0 10px;
 	border: 1px solid #bbb;
 }
-#of_container  #info_bar .expand { background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/toggle_tabs.png) no-repeat -2px -1px; }
-#of_container #info_bar .close { background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/toggle_tabs.png) no-repeat -2px -26px; }
+#of_container  #info_bar .expand { background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/toggle_tabs.png) no-repeat -2px -1px; }
+#of_container #info_bar .close { background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/toggle_tabs.png) no-repeat -2px -26px; }
 #of_container #expand_options:hover {
 	cursor: pointer;
 	border-color: #888;
@@ -337,39 +337,39 @@ body.appearance_page_optionsframework {
 	content: "\e03a";
 }
 /*menu icons - customize to your liking
-#of_container #of-nav li.logofavicon a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-logofavicon.png);}
-#of_container #of-nav li.responsiveness a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/responsive.png);}
-#of_container #of-nav li.typography a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-typography.png);}
-#of_container #of-nav li.basicdesign a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-basicdesign.png);}
-#of_container #of-nav li.colors a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-colors.png);}
-#of_container #of-nav li.headertop a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-header.png);}
-#of_container #of-nav li.headerleft-right a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-header-left-right.png);}
-#of_container #of-nav li.mobilemenu a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/mobile-menu.png);}
-#of_container #of-nav li.off-canvassidebar a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/canvas-sidebar.png);}
-#of_container #of-nav li.pagetitle-breadcrumb a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/pagetitle-bread.png);}
-#of_container #of-nav li.footer a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-footer.png);}
-#of_container #of-nav li.vcelements a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-settings.png);}
-#of_container #of-nav li.blog a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-blog.png);}
-#of_container #of-nav li.portfolio a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-port.png);}
-#of_container #of-nav li.socialmedia a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-social.png);}
-#of_container #of-nav li.featuredimages a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-featured.png);}
-#of_container #of-nav li.woocommerce a { background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-woo.png);}
-#of_container #of-nav li.bbpressoptions a { background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/bbpress.png);}
-#of_container #of-nav li.eventscalendar a { background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/events.png);}
-#of_container #of-nav li.contactoptions a { background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/contact.png);}
-#of_container #of-nav li.demodata a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-demodata.png);}
-#of_container #of-nav li.calltoaction a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/call-action.png);}
-#of_container #of-nav li.documentation a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-documentation.png);}
-#of_container #of-nav li.videotraining a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-videotraining.png);}
-#of_container #of-nav li.topbar a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/topbar.png);}
-#of_container #of-nav li.slideroptions a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-slider.png);}
-#of_container #of-nav li.generalsettings a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-settings.png);}
-#of_container #of-nav li.stylingoptions a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-paint.png);}
-#of_container #of-nav li.exampleoptions a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-docs.png);}
-#of_container #of-nav li.homesettings a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-home.png);}
-#of_container #of-nav li.customcss a{ background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/css.png);}
-#of_container #of-nav li.backupoptions a {background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-backup.png) no-repeat;}
-#of_container #of-nav li.advancedsettings a {background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/wrench16.png) no-repeat;}
+#of_container #of-nav li.logofavicon a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-logofavicon.png);}
+#of_container #of-nav li.responsiveness a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/responsive.png);}
+#of_container #of-nav li.typography a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-typography.png);}
+#of_container #of-nav li.basicdesign a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-basicdesign.png);}
+#of_container #of-nav li.colors a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-colors.png);}
+#of_container #of-nav li.headertop a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-header.png);}
+#of_container #of-nav li.headerleft-right a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-header-left-right.png);}
+#of_container #of-nav li.mobilemenu a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/mobile-menu.png);}
+#of_container #of-nav li.off-canvassidebar a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/canvas-sidebar.png);}
+#of_container #of-nav li.pagetitle-breadcrumb a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/pagetitle-bread.png);}
+#of_container #of-nav li.footer a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-footer.png);}
+#of_container #of-nav li.vcelements a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-settings.png);}
+#of_container #of-nav li.blog a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-blog.png);}
+#of_container #of-nav li.portfolio a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-port.png);}
+#of_container #of-nav li.socialmedia a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-social.png);}
+#of_container #of-nav li.featuredimages a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-featured.png);}
+#of_container #of-nav li.woocommerce a { background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-woo.png);}
+#of_container #of-nav li.bbpressoptions a { background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/bbpress.png);}
+#of_container #of-nav li.eventscalendar a { background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/events.png);}
+#of_container #of-nav li.contactoptions a { background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/contact.png);}
+#of_container #of-nav li.demodata a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-demodata.png);}
+#of_container #of-nav li.calltoaction a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/call-action.png);}
+#of_container #of-nav li.documentation a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-documentation.png);}
+#of_container #of-nav li.videotraining a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-videotraining.png);}
+#of_container #of-nav li.topbar a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/topbar.png);}
+#of_container #of-nav li.slideroptions a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-slider.png);}
+#of_container #of-nav li.generalsettings a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-settings.png);}
+#of_container #of-nav li.stylingoptions a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-paint.png);}
+#of_container #of-nav li.exampleoptions a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-docs.png);}
+#of_container #of-nav li.homesettings a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-home.png);}
+#of_container #of-nav li.customcss a{ background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/css.png);}
+#of_container #of-nav li.backupoptions a {background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-backup.png) no-repeat;}
+#of_container #of-nav li.advancedsettings a {background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/wrench16.png) no-repeat;}
 */
 #of_container #content {
 	float: right;
@@ -818,13 +818,13 @@ label.radio, label.multicheck {
 	padding:30px 30px 30px 60px;
 }
 #of_container .of-save-save {
-	background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/button_check.png);
+	background-image: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/button_check.png);
 }
 #of_container .of-save-reset {
-	background-image: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/sign_warning.png);
+	background-image: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/sign_warning.png);
 }
 #of_container .of-save-fail {
-	background-image:url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/stop.png);
+	background-image:url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/stop.png);
 }
 
 #of_container .accept,
@@ -867,7 +867,7 @@ color: #ffffff;
 }
 
 #of_container .button_active {
-    background:#eee url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/images/white-grad-active.png) repeat-x scroll left top;
+    background:#eee url(https://ameritecdesign.com/wp-content/themes/nimva/admin/images/white-grad-active.png) repeat-x scroll left top;
 }
 
 #of_container .image_reset_button, #of_container .button.remove-image {
@@ -964,7 +964,7 @@ color: #ffffff;
 }
 #of_container .select_wrapper {
 	font-size: 13px;
-	background: #ffffff url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/select.png) no-repeat right center;
+	background: #ffffff url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/select.png) no-repeat right center;
 	border-color: #c2cad8;
 	border-style: solid;
 	border-width: 1px;
@@ -1049,17 +1049,17 @@ color: #ffffff;
 	top: 0;
 	width:32px;
 	height:32px;
-	background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/dropdown-arrow.png) no-repeat 9px -28px;
+	background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/dropdown-arrow.png) no-repeat 9px -28px;
 }
 	#of_container a:hover.slide_edit_button {
-	background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/dropdown-arrow.png) no-repeat 9px 11px;}
+	background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/dropdown-arrow.png) no-repeat 9px 11px;}
 	
 #of_container a.slide_delete_button { 
 	float: right;
 	margin: 0 0 0 7px;
 	width:16px;
 	height:16px;
-	background: url(https://ameritecdesign.com/ameritec-design/wp-content/themes/nimva/admin/assets/images/icon-delete.png) no-repeat
+	background: url(https://ameritecdesign.com/wp-content/themes/nimva/admin/assets/images/icon-delete.png) no-repeat
 }
 
 #of_container .select_wrapper span {
