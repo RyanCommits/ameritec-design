@@ -30,7 +30,7 @@
 .ls-minimal .ls-nav-stop,
 .ls-minimal .ls-fullscreen,
 .ls-minimal .ls-loading-container {
-	background-image: url(https://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/minimal/skin.png);	
+	background-image: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/minimal/skin.png);	
 }
 
 .ls-minimal .ls-playvideo {
@@ -206,7 +206,7 @@
 	width: 22px;
 	height: 22px;
 	margin-top: 9px;
-	background-image: url(https://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/minimal/loading.gif);	
+	background-image: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/LayerSlider/static/layerslider/skins/minimal/loading.gif);	
 }
 
 

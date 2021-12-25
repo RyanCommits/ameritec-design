@@ -188,7 +188,7 @@
   width: 30px;
   height: 30px;
   vertical-align: middle;
-  background: url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/connect-plug.svg") center center no-repeat;
+  background: url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/connect-plug.svg") center center no-repeat;
   background-size: 100%;
 }
 .download-jetpack:after {
@@ -257,8 +257,8 @@
 
 @font-face {
   font-family: "automatticons";
-  src: url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot");
-  src: url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot#iefix") format("embedded-opentype"), url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff") format("woff"), url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.ttf") format("truetype"), url("https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.svg#automatticonsregular") format("svg");
+  src: url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot");
+  src: url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.eot#iefix") format("embedded-opentype"), url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.woff") format("woff"), url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.ttf") format("truetype"), url("http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/_inc/fonts/automatticons/automatticons.svg#automatticonsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -355,8 +355,8 @@
   position: relative;
   width: 214px;
   margin-right: 6px;
-  background: url(https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/jetpack-logo.png) center center no-repeat;
-  background: url(https://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/jetpack-logo.svg) center center no-repeat, none;
+  background: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/jetpack-logo.png) center center no-repeat;
+  background: url(http://ryancommits.github.io/ameritec-design/wp-content/plugins/jetpack/images/jetpack-logo.svg) center center no-repeat, none;
   background-size: 183px auto;
   color: #fff;
   line-height: 60px;

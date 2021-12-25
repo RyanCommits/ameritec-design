@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Fashion &#8211; Ameritec Design</title>
-	<atom:link href="https://ryancommits.github.io/ameritec-design/category/fashion/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="http://ryancommits.github.io/ameritec-design/category/fashion/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ryancommits.github.io/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Tue, 03 Jun 2014 20:58:08 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Blog Slideshow Post</title>
-		<link>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/</link>
-					<comments>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comments</comments>
+		<link>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/</link>
+					<comments>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:58:08 +0000</pubDate>
@@ -62,14 +62,14 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/blog-slideshow-post-2/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Blog Image Post</title>
-		<link>https://ryancommits.github.io/ameritec-design/blog-image-post-2/</link>
+		<link>http://ryancommits.github.io/ameritec-design/blog-image-post-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:39:48 +0000</pubDate>
@@ -111,7 +111,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Nam Viverra Euismod Odio Gravida</title>
-		<link>https://ryancommits.github.io/ameritec-design/nam-viverra-euismod-odio-gravida-2/</link>
+		<link>http://ryancommits.github.io/ameritec-design/nam-viverra-euismod-odio-gravida-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 19:59:07 +0000</pubDate>
@@ -152,7 +152,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Aenean Odio Mauris</title>
-		<link>https://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
+		<link>http://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 15:18:43 +0000</pubDate>
@@ -192,8 +192,8 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Blog Full Width Post</title>
-		<link>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/</link>
-					<comments>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comments</comments>
+		<link>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/</link>
+					<comments>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 14:50:44 +0000</pubDate>
@@ -232,14 +232,14 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 <p>Quisque ligulas ipsum, euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Vestibulum sodales ante a purus volutpat euismod. Proin sodales quam nec ante sollicitudin lacinia.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ryancommits.github.io/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://ryancommits.github.io/ameritec-design/blog-full-width-post-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Class Aptent Taciti Soci</title>
-		<link>https://ryancommits.github.io/ameritec-design/class-aptent-taciti-soci/</link>
+		<link>http://ryancommits.github.io/ameritec-design/class-aptent-taciti-soci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 29 May 2014 14:10:26 +0000</pubDate>

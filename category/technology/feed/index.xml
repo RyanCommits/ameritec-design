@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Technology &#8211; Ameritec Design</title>
-	<atom:link href="https://ryancommits.github.io/ameritec-design/category/technology/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ryancommits.github.io/ameritec-design/</link>
+	<atom:link href="http://ryancommits.github.io/ameritec-design/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ryancommits.github.io/ameritec-design/</link>
 	<description>Kitchen &#38; Bath Design</description>
 	<lastBuildDate>Tue, 03 Jun 2014 20:07:15 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>Maecenas Euis Vehicula</title>
-		<link>https://ryancommits.github.io/ameritec-design/maecenas-euis-vehicula-2/</link>
+		<link>http://ryancommits.github.io/ameritec-design/maecenas-euis-vehicula-2/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 03 Jun 2014 20:07:15 +0000</pubDate>
@@ -67,7 +67,7 @@ Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dign
 			</item>
 		<item>
 		<title>Aenean Odio Mauris</title>
-		<link>https://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
+		<link>http://ryancommits.github.io/ameritec-design/aenean-odio-mauris/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 31 May 2014 15:18:43 +0000</pubDate>
